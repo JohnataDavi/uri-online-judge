@@ -1,10 +1,20 @@
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
-
+/*
++---------------------------------------------------+
+|   URI    	|   www.urionlinejudge.com.br	    |
+|---------------------------------------------------|
+|   NOME                    |                       |
+|---------------------------------------------------|
+|   Johnata Davi 	    |   	            |
++---------------------------------------------------+
+|   GITHUB 	|   www.github.com/JohnataDavi      |
++---------------------------------------------------+
+|   LINKEDIN	|   www.linkedin.com/in/johnatadavi |
++---------------------------------------------------+
+*/
 int main(){
-
-
     int n, aux=0, vaux=0;
     float v;
     cin >> v;
@@ -51,8 +61,6 @@ int main(){
 
     n*=100;
 
-
-
     cout << v << endl;
     cout << aux << endl;
     cout << vaux << endl;
@@ -75,8 +83,6 @@ int main(){
     vaux%=5;
     cout << vaux << endl;
     cout << aux << " moeda(s) de R$ 0.05\n";
-
     cout << vaux << " moeda(s) de R$ 0.01\n";
-
     return 0;
 }
