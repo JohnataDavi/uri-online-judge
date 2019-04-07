@@ -11,8 +11,21 @@ import java.util.Scanner;
  *
  * @author Johnata
  */
-public class Area_1012 {
 
+/*
++---------------------------------------------------+
+|   URI    	|   www.urionlinejudge.com.br	    |
+|---------------------------------------------------|
+|   NOME                    |                       |
+|---------------------------------------------------|
+|   Johnata Davi 	    |   	            |
++---------------------------------------------------+
+|   GITHUB 	|   www.github.com/JohnataDavi      |
++---------------------------------------------------+
+|   LINKEDIN	|   www.linkedin.com/in/johnatadavi |
++---------------------------------------------------+
+*/
+public class Area_1012 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double a = sc.nextDouble();
