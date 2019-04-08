@@ -1,7 +1,19 @@
 package URI.Iniciante;
 
 import java.util.Scanner;
-
+/*
++---------------------------------------------------+
+|   URI    	    |   www.urionlinejudge.com.br	    |
+|---------------------------------------------------|
+|   NOME                |                           |
+|---------------------------------------------------|
+|   Johnata Davi 	    |   	                    |
++---------------------------------------------------+
+|   GITHUB 	    |   www.github.com/JohnataDavi      |
++---------------------------------------------------+
+|   LINKEDIN	|   www.linkedin.com/in/johnatadavi |
++---------------------------------------------------+
+*/
 public class CalculoSimples_1010 {
 
     public static void main(String[] args) {
