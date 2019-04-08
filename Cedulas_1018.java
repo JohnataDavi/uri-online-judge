@@ -12,6 +12,19 @@ import java.util.Scanner;
  *
  * @author Johnata
  */
+/*
++---------------------------------------------------+
+|   URI    	|   www.urionlinejudge.com.br	    |
+|---------------------------------------------------|
+|   NOME                    |                       |
+|---------------------------------------------------|
+|   Johnata Davi 	    |   	            |
++---------------------------------------------------+
+|   GITHUB 	|   www.github.com/JohnataDavi      |
++---------------------------------------------------+
+|   LINKEDIN	|   www.linkedin.com/in/johnatadavi |
++---------------------------------------------------+
+*/
 public class Cedulas_1018 {
 
     public static void main(String[] args) {
