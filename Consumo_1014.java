@@ -2,7 +2,19 @@
 package URI.Iniciante;
 
 import java.util.Scanner;
-
+/*
++---------------------------------------------------+
+|   URI    	    |   www.urionlinejudge.com.br	    |
+|---------------------------------------------------|
+|   NOME                |                           |
+|---------------------------------------------------|
+|   Johnata Davi 	    |   	                    |
++---------------------------------------------------+
+|   GITHUB 	    |   www.github.com/JohnataDavi      |
++---------------------------------------------------+
+|   LINKEDIN	|   www.linkedin.com/in/johnatadavi |
++---------------------------------------------------+
+*/
 public class Consumo_1014 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
