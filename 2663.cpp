@@ -12,7 +12,8 @@ int main ()
     int n, k, cont=1, pos=0, aux=0;
     cin >> n >> k;
     int v[n];
-    for(int i=0; i<n; i++) cin >> v[i];
+    for(int i=0; i<n; i++) 
+      cin >> v[i];
     qsort (v, n, sizeof(int), compare);
     for (int i=1; i<=n; i++){
             if(cont < k){
