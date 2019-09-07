@@ -4,7 +4,6 @@
 using namespace std;
 
 int main() {
-
     int n;
     string a, b;
     cin >>  n;
@@ -24,6 +23,5 @@ int main() {
             }
         }
     }
-
     return 0;
 }
