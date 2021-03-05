@@ -1,0 +1,1 @@
+SELECT c.name, SUM(p.amount) as sum FROM products as p, categories as c WHERE c.id = p.id_categories GROUP BY c.name

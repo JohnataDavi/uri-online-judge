@@ -1,0 +1,1 @@
+SELECT pd.id, pd.name FROM products as pd, categories as cat WHERE REPLACE(cat.name, ' ', '') like '%super%' and pd.id_categories = cat.id
