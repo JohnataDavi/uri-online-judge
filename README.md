@@ -5,7 +5,7 @@ URI Online Judge" src="https://user-images.githubusercontent.com/26368939/110052
 
 ---
 
-List of solved URI exercises done in some languages like C ++, Java, Python and SQL.
+URI exercise solutions, done in some languages like C ++, Java, Python and SQL.
 ## Categories
 <details>
   <summary>BEGINNER</summary>
