@@ -21,6 +21,7 @@
         "xhash": "cpp",
         "initializer_list": "cpp",
         "list": "cpp",
-        "type_traits": "cpp"
+        "type_traits": "cpp",
+        "utility": "cpp"
     }
 }
