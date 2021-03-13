@@ -7,6 +7,20 @@
         "string": "cpp",
         "vector": "cpp",
         "queue": "cpp",
-        "stack": "cpp"
+        "stack": "cpp",
+        "xiosbase": "cpp",
+        "set": "cpp",
+        "deque": "cpp",
+        "map": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp",
+        "algorithm": "cpp",
+        "unordered_set": "cpp",
+        "iomanip": "cpp",
+        "iosfwd": "cpp",
+        "xhash": "cpp",
+        "initializer_list": "cpp",
+        "list": "cpp",
+        "type_traits": "cpp"
     }
 }
