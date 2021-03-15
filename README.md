@@ -13,6 +13,9 @@ URI exercise solutions, done in some languages like C ++, Java, Python and SQL.
 - [1001](solutions/1001.java)
 - [1002](solutions/1002.java)
 - [1003](solutions/1003.java)
+- [1004](solutions/1004.java)
+- [1005](solutions/1005.java)
+- [1006](solutions/1006.java)
 </details>
 
 <details>
@@ -21,6 +24,9 @@ URI exercise solutions, done in some languages like C ++, Java, Python and SQL.
 - [1030](solutions/1030.cpp)
 - [1087](solutions/1087.cpp)
 - [1103](solutions/1103.java)
+- [1140](solutions/1140.py)
+- [1171](solutions/1171.java)
+- [1192](solutions/1192.cpp)
 </details>
 
 <details>
@@ -44,7 +50,9 @@ URI exercise solutions, done in some languages like C ++, Java, Python and SQL.
   
 - [1028](solutions/1028.py)
 - [1161](solutions/1161.cpp)
-- [1110](solutions/1110.cpp)
+- [1169](solutions/1169.cpp)
+- [1170](solutions/1170.cpp)
+- [1197](solutions/1197.py)
 </details>
 
 <details>
