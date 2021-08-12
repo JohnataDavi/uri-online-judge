@@ -37,7 +37,6 @@ public class Main {
  
     }
     
-     
     public static void addVertices(Grafo g, int tam){
         for(int i=1; i<=tam; i++)
             g.addVertice(i);
@@ -150,5 +149,4 @@ public class Main {
         return true;
     }
 }
- 
 }
